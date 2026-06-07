@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "076c5618-4ad3-47ef-a60d-6116eb7080ae"
+id: "a21e6f92-edfd-415c-a2ea-67d64381eac2"
 name: "extract-action-items"
 display_name: "Extract Action Items"
 description: "Core prompt for identifying and structuring action items from text"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
